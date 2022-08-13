@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3464c584.css",
+    "main.js": "/static/js/main.c7345b62.js",
+    "static/js/787.79c2e125.chunk.js": "/static/js/787.79c2e125.chunk.js",
+    "static/media/joinsurvey3.png": "/static/media/joinsurvey3.f0f619ca825b70ed832b.png",
+    "static/media/surveyresult1.png": "/static/media/surveyresult1.98d8687b59074d585c13.png",
+    "static/media/editsurvey2.png": "/static/media/editsurvey2.c453efc1ef48d453dd9b.png",
+    "static/media/main-image.png": "/static/media/main-image.c330e697643754696a06.png",
+    "static/media/editsurvey3.png": "/static/media/editsurvey3.cb1b38b5f3f72b37c878.png",
+    "static/media/surveyresult2.png": "/static/media/surveyresult2.d31129d4b21d9872a9e5.png",
+    "static/media/addsurvey2.png": "/static/media/addsurvey2.7e36479d055ee14ccee8.png",
+    "static/media/joinsurvey4.png": "/static/media/joinsurvey4.a9229f18e61e75a7277e.png",
+    "static/media/joinsurvey2.png": "/static/media/joinsurvey2.af23950075724095f59c.png",
+    "index.html": "/index.html",
+    "main.3464c584.css.map": "/static/css/main.3464c584.css.map",
+    "main.c7345b62.js.map": "/static/js/main.c7345b62.js.map",
+    "787.79c2e125.chunk.js.map": "/static/js/787.79c2e125.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3464c584.css",
+    "static/js/main.c7345b62.js"
+  ]
+}
